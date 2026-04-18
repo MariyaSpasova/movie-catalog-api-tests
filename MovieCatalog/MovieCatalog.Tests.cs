@@ -193,5 +193,7 @@ namespace MovieCatalog
         {
             this.client?.Dispose();
         }
+
+        //Adding this comment to trigger the CI
     }
 }
